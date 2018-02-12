@@ -1,3 +1,6 @@
 body{
-  background-color: beige;
+  background-color: #d5f4e6;
+  background-image: url("http://dlewis.net/nik-archives/wp-content/uploads/2011/10/Rock-Paper-Scissors.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
 }
